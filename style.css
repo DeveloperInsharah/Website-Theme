@@ -1,0 +1,99 @@
+#a1{text-transform: uppercase;
+text-align: center;}
+#a2{text-transform: uppercase;
+font-size: xx-large;
+text-align: center;
+font-weight: bold;
+font-family:initial;}
+#a3{text-transform: uppercase;
+text-align: center;
+letter-spacing: 4px;}
+#ba{width: 150px;
+    height: 100px;
+margin-top: 30px;
+margin-left: auto;
+margin-right: auto;}
+#df{padding: 10px 30px;
+text-transform: uppercase;
+font-weight: 800;}
+#sd{border-bottom: 3px solid;
+border-top: 4px solid;
+width: 650px;
+text-align: center;}
+#df.ft{color: red;}
+.ij{width: 215px;
+height: 150px;}
+#pl{margin-top: 20px;}
+#hi{width:650px;
+text-align: justify;
+word-spacing: 10px;
+letter-spacing: 3px;
+font-weight: 700;}
+#klm{width: 850px;
+border: 7px double;
+background-color: rgb(218, 204, 204);}
+#hij{margin: 0px 95px;}
+p{text-align-last: center;
+margin-bottom: 30px;}
+#div1{width: 600px;
+margin: 30px auto;}
+#table{text-align: center;
+width: 600px;}
+.td{padding: 10px 20px;
+text-transform: uppercase;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+letter-spacing: 2px;
+font-size: larger;}
+#adultdiv{ background-color:rgb(231, 226, 226);
+width: 950px;
+height:550px}
+#div2{width: 800px;
+margin: 10px auto;
+height: 370px;
+padding: 10px;
+border: 8px double rgb(158, 144, 144);}
+.td2{width: 400px;
+height: 350px;}
+#img{width: 390px;
+height: 350px;}
+#h1{text-transform: capitalize;
+text-align: start;
+font-size: 45px;
+padding-left: 10px;
+font-family:Arial, Helvetica, sans-serif;}
+#div4{width:400px;
+height: 360px;}
+#p1{padding-left: 10px;
+font-family: Arial, Helvetica, sans-serif;
+text-align-last:left ;
+font-size: 20px;}
+#p2{text-align:left;}
+#div5{width: 390px;
+text-align:left;
+padding-left: 10px;
+font-size: 17px;
+font-weight: 600;}
+#img2{width: 200px;}
+#ikl{width:1000px;
+border: 2px solid;
+background-color: aquamarine;
+height: 50px;}
+.h1{background-color: rgb(119, 201, 174);
+color:  rgb(27, 77, 60);
+text-align: center;
+border-bottom: 4px dashed  rgb(27, 77, 60);
+border-top: 4px dashed  rgb(27, 77, 60) ;}
+.h2{text-align: center;
+width: 300px;
+border: 2px dashed   rgb(119, 201, 174);
+background-color: rgb(27, 77, 60) ;
+color:  rgb(119, 201, 174);
+border-radius: 10px;
+height: 50px;
+padding-top: 10px;
+box-sizing: border-box;
+margin: 20px auto;}
+#container{border:3px dashed  rgb(89, 182, 151);
+    padding: 10px;
+background-color:   rgb(221, 247, 238);}
+.a{text-decoration: none;}
